@@ -1,0 +1,6 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Exam2\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.pdb
