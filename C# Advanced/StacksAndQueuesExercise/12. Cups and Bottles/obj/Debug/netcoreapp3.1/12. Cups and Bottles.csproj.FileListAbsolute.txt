@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\bin\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\12. Cups and Bottles\obj\Debug\netcoreapp3.1\12. Cups and Bottles.genruntimeconfig.cache

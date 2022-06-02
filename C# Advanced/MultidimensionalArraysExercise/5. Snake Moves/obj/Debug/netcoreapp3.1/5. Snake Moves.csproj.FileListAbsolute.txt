@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\bin\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysExercise\5. Snake Moves\obj\Debug\netcoreapp3.1\5. Snake Moves.genruntimeconfig.cache

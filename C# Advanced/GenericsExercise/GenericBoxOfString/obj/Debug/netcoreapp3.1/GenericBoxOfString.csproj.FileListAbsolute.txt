@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsExercise\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache

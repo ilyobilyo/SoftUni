@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\bin\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\7. Folder Size\obj\Debug\netcoreapp3.1\7. Folder Size.genruntimeconfig.cache

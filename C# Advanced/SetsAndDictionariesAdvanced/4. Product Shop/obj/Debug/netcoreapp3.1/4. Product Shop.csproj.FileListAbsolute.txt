@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\bin\Debug\netcoreapp3.1\4. Product Shop.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvanced\4. Product Shop\obj\Debug\netcoreapp3.1\4. Product Shop.genruntimeconfig.cache

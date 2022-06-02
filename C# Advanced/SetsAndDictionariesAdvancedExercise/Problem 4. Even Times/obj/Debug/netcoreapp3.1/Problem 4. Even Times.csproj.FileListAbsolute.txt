@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\bin\Debug\netcoreapp3.1\Problem 4. Even Times.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\SetsAndDictionariesAdvancedExercise\Problem 4. Even Times\obj\Debug\netcoreapp3.1\Problem 4. Even Times.genruntimeconfig.cache

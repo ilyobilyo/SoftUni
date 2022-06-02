@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\bin\Debug\netcoreapp3.1\7. Truck Tour.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.genruntimeconfig.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueuesExercise\7. Truck Tour\obj\Debug\netcoreapp3.1\7. Truck Tour.csproj.AssemblyReference.cache

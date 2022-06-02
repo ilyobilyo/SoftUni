@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.genruntimeconfig.cache

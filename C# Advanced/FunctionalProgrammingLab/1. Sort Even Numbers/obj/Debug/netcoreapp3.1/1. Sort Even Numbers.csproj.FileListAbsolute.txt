@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\bin\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FunctionalProgrammingLab\1. Sort Even Numbers\obj\Debug\netcoreapp3.1\1. Sort Even Numbers.genruntimeconfig.cache

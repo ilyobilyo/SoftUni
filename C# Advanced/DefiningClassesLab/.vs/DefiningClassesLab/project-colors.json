@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ff2245a-3b3b-4cf2-9377-8198e1ef2655": {
+      "ProjectGuid": "0ff2245a-3b3b-4cf2-9377-8198e1ef2655",
+      "DisplayName": "CarManufacturer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\GenericsLab\BoxOfT\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache

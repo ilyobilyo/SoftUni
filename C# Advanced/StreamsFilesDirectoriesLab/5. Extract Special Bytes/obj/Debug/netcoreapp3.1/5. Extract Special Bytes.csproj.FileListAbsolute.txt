@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\bin\Debug\netcoreapp3.1\5. Extract Special Bytes.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\5. Extract Special Bytes\obj\Debug\netcoreapp3.1\5. Extract Special Bytes.genruntimeconfig.cache

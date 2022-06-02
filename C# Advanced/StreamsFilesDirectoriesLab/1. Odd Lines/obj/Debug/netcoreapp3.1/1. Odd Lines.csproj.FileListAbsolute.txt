@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\bin\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\1. Odd Lines\obj\Debug\netcoreapp3.1\1. Odd Lines.genruntimeconfig.cache

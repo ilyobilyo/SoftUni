@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\bin\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\7. Hot Potato\obj\Debug\netcoreapp3.1\7. Hot Potato.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\bin\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\MultidimensionalArraysLab\4. Symbol in Matrix\obj\Debug\netcoreapp3.1\4. Symbol in Matrix.genruntimeconfig.cache

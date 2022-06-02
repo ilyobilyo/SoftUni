@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\bin\Debug\netcoreapp3.1\9. Predicate Party!.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\FuctionalProgrammingExercise\9. Predicate Party!\obj\Debug\netcoreapp3.1\9. Predicate Party!.genruntimeconfig.cache

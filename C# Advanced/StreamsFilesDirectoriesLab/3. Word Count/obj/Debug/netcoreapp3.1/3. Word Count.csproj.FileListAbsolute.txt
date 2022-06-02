@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\bin\Debug\netcoreapp3.1\3. Word Count.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StreamsFilesDirectoriesLab\3. Word Count\obj\Debug\netcoreapp3.1\3. Word Count.genruntimeconfig.cache

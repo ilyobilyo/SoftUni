@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\bin\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\StacksAndQueues\8. Traffic Jam\obj\Debug\netcoreapp3.1\8. Traffic Jam.genruntimeconfig.cache

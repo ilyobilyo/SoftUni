@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.exe
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.deps.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\bin\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.dll
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.pdb
+C:\Users\iliyan\Desktop\Programing\C# Advanced\ExerciseStreamFilesandDirectories\LineNumbers\obj\Debug\netcoreapp3.1\LineNumbers.genruntimeconfig.cache
