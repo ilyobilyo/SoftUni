@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.exe
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.deps.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\bin\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\Cards\obj\Debug\netcoreapp3.1\Cards.genruntimeconfig.cache

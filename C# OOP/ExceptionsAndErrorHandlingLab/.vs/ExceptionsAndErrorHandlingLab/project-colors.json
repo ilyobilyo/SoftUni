@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "411577ce-5e28-4d95-a47e-b43b64889bfa": {
+      "ProjectGuid": "411577ce-5e28-4d95-a47e-b43b64889bfa",
+      "DisplayName": "SquareRoot",
+      "ColorIndex": 0
+    },
+    "054fddfb-c42b-44fe-bad9-44d937ba6b18": {
+      "ProjectGuid": "054fddfb-c42b-44fe-bad9-44d937ba6b18",
+      "DisplayName": "EnterNumbers",
+      "ColorIndex": 1
+    },
+    "428912a9-de80-4442-a8bc-b35d643ddc6d": {
+      "ProjectGuid": "428912a9-de80-4442-a8bc-b35d643ddc6d",
+      "DisplayName": "Cards",
+      "ColorIndex": 2
+    },
+    "217fcb5e-36ec-4958-afc8-4ab4e28eaffb": {
+      "ProjectGuid": "217fcb5e-36ec-4958-afc8-4ab4e28eaffb",
+      "DisplayName": "SumOfIntegers",
+      "ColorIndex": 3
+    },
+    "ad04c69e-f8cb-42c6-8db5-b19fedc17b5a": {
+      "ProjectGuid": "ad04c69e-f8cb-42c6-8db5-b19fedc17b5a",
+      "DisplayName": "PlayCatch",
+      "ColorIndex": 4
+    },
+    "fd6c1a58-7daa-4cfd-8273-e8cbbc9fc193": {
+      "ProjectGuid": "fd6c1a58-7daa-4cfd-8273-e8cbbc9fc193",
+      "DisplayName": "MoneyTransactions",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

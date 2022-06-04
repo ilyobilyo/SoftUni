@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.exe
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.deps.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\bin\Debug\netcoreapp3.1\PlayCatch.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ExceptionsAndErrorHandlingLab\PlayCatch\obj\Debug\netcoreapp3.1\PlayCatch.genruntimeconfig.cache
