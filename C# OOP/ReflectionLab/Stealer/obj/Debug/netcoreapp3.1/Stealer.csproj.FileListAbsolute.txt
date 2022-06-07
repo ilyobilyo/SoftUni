@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+C:\Users\iliyan\Desktop\Programing\C# OOP\ReflectionLab\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
