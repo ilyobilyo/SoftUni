@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "40243b9a-88aa-48dd-9a11-fa65d6a28497": {
+      "ProjectGuid": "40243b9a-88aa-48dd-9a11-fa65d6a28497",
+      "DisplayName": "Skeleton",
+      "ColorIndex": 0
+    },
+    "fa635815-59b6-43a6-a359-ad093b6a90e1": {
+      "ProjectGuid": "fa635815-59b6-43a6-a359-ad093b6a90e1",
+      "DisplayName": "Skeleton.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
