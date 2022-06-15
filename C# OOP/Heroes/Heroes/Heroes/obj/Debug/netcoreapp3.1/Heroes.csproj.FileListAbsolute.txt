@@ -12,3 +12,17 @@ C:\Users\iliyan\Desktop\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcore
 C:\Users\iliyan\Desktop\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
 C:\Users\iliyan\Desktop\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
 C:\Users\iliyan\Desktop\01. Structure_Skeleton\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+D:\SoftUni\SoftUni\C# OOP\Heroes\Heroes\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache

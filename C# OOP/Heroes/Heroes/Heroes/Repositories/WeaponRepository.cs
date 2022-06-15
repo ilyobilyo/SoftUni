@@ -26,13 +26,7 @@ namespace Heroes.Repositories
 
         public bool Remove(IWeapon model)
         {
-            if (weapons.Contains(model))
-            {
-                weapons.Remove(model);
-                return true;
-            }
-
-            return false;
+            return weapons.Remove(model);
         }
     }
 }

@@ -13,8 +13,15 @@ namespace Heroes.Core
 {
     public class Controller : IController
     {
-        private HeroRepository heroes = new HeroRepository();
-        private WeaponRepository weapons = new WeaponRepository();
+        private readonly HeroRepository heroes;
+        private WeaponRepository weapons;
+
+        public Controller()
+        {
+            this.heroes = new HeroRepository();
+            this.weapons = new WeaponRepository();
+        }
+
         public string AddWeaponToHero(string weaponName, string heroName)
         {
             IHero hero = heroes.FindByName(heroName);

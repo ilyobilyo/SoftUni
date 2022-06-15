@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iliyan\\Desktop\\01. Structure_Skeleton\\Skeleton\\Heroes\\Heroes.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\C# OOP\\Heroes\\Heroes\\Heroes\\Heroes.csproj",
       "projectName": "Heroes",
-      "projectPath": "C:\\Users\\iliyan\\Desktop\\01. Structure_Skeleton\\Skeleton\\Heroes\\Heroes.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\C# OOP\\Heroes\\Heroes\\Heroes\\Heroes.csproj",
       "packagesPath": "C:\\Users\\iliyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iliyan\\Desktop\\01. Structure_Skeleton\\Skeleton\\Heroes\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\C# OOP\\Heroes\\Heroes\\Heroes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

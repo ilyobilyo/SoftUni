@@ -7,8 +7,8 @@ namespace Heroes.Models.Weapons
 {
     public abstract class Weapon : IWeapon
     {
-        protected string name;
-        protected int durability;
+        private string name;
+        private int durability;
 
         public Weapon(string name, int durability)
         {
@@ -22,7 +22,7 @@ namespace Heroes.Models.Weapons
             {
                 return name;
             }
-            protected set
+            private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {

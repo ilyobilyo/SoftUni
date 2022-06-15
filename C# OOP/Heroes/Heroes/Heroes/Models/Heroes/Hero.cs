@@ -7,10 +7,10 @@ namespace Heroes.Models.Heroes
 {
     public abstract class Hero : IHero
     {
-        protected string name;
-        protected int health;
-        protected int armour;
-        protected IWeapon weapon;
+        private string name;
+        private int health;
+        private int armour;
+        private IWeapon weapon;
 
         public Hero(string name, int health, int armour)
         {
@@ -25,7 +25,7 @@ namespace Heroes.Models.Heroes
             {
                 return name;
             }
-            protected set
+            private set
             {
                 if (string.IsNullOrWhiteSpace(value))
                 {
@@ -42,7 +42,7 @@ namespace Heroes.Models.Heroes
             {
                 return health;
             }
-            protected set
+            private set
             {
                 if (value < 0)
                 {
@@ -59,7 +59,7 @@ namespace Heroes.Models.Heroes
             {
                 return armour;
             }
-            protected set
+            private set
             {
                 if (value < 0)
                 {
@@ -76,7 +76,7 @@ namespace Heroes.Models.Heroes
             {
                 return weapon;
             }
-            protected set
+            private set
             {
                 if (value == null)
                 {
@@ -90,7 +90,7 @@ namespace Heroes.Models.Heroes
         public bool IsAlive
             => health > 0;
 
-        public virtual void AddWeapon(IWeapon weapon)
+        public void AddWeapon(IWeapon weapon)
         {
             if (this.weapon == null)
             {
@@ -98,7 +98,7 @@ namespace Heroes.Models.Heroes
             }
         }
 
-        public virtual void TakeDamage(int points)
+        public void TakeDamage(int points)
         {
             if (this.armour - points > 0)
             {

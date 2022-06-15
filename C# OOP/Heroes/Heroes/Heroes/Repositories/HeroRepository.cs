@@ -27,13 +27,9 @@ namespace Heroes.Repositories
 
         public bool Remove(IHero model)
         {
-            if (repository.Contains(model))
-            {
-                repository.Remove(model);
-                return true;
-            }
-
-            return false;
+            
+             return  repository.Remove(model);
+             
         }
 
     }
