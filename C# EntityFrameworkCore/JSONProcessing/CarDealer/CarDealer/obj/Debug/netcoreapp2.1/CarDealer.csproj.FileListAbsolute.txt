@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Car-Dealer-Skeleton\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Users\iliyan\Desktop\Programing\C# EFC\JSONProcessing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
