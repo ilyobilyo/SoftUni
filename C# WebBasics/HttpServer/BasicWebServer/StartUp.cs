@@ -1,12 +1,6 @@
 ﻿using BasicWebServer.Server;
 using BasicWebServer.Server.Controllers;
-using BasicWebServer.Server.HTTP;
-using BasicWebServer.Server.Responses;
 using BasicWebServer.Server.Routing;
-using System.Net;
-using System.Net.Sockets;
-using System.Text;
-using System.Web;
 
 namespace BasicWebServer
 {
@@ -27,7 +21,7 @@ namespace BasicWebServer
              .MapGet<HomeController>("/Session", c => c.Session())
              .MapGet<UserController>("/Login", c => c.Login())
              .MapPost<UserController>("/Login", c => c.LogInUser()))
-                .Start();
+             .Start();
 
         }
     }
