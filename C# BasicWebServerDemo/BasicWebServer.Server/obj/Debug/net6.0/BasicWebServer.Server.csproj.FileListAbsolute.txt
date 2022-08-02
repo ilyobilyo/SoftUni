@@ -10,3 +10,15 @@ C:\Users\iliyan\Desktop\Programing\C# WebBasics\HttpServer\BasicWebServer.Server
 C:\Users\iliyan\Desktop\Programing\C# WebBasics\HttpServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
 C:\Users\iliyan\Desktop\Programing\C# WebBasics\HttpServer\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
 C:\Users\iliyan\Desktop\Programing\C# WebBasics\HttpServer\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.deps.json
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.dll
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\bin\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\bin\Debug\net6.0\BasicWebServer.Server.pdb
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.dll
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\ref\BasicWebServer.Server.dll
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer.Server\obj\Debug\net6.0\BasicWebServer.Server.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZWgrbV+KDacjAxXPh9B245vTVpmPbxCN8dhRiaw48bvFIn+B2KW7YM2NhlbhEEIgT814bzY1H5VtMGdinZR+g==",
+  "dgSpecHash": "NALU5HIC/g28xus3YeAWnJqR+XCxeD4Ttn3+Aia11Wb2835xDOvyqmfBu9moJnU7wQPA51sGAZ6VXViHvUh3Ew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iliyan\\Desktop\\Programing\\C# WebBasics\\HttpServer\\BasicWebServer\\BasicWebServer.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni\\C# BasicWebServerDemo\\BasicWebServer\\BasicWebServer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
