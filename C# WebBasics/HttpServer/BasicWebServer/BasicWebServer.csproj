@@ -9,21 +9,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BasicWebServer.Server\BasicWebServer.Server.csproj" />
-	  <Content Include="Views\**\*.*">
-		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-	  </Content>
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Update="Views\Home\Content.cshtml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Views\Home\Html.cshtml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="Views\User\Login.cshtml">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
   </ItemGroup>
 
 </Project>
