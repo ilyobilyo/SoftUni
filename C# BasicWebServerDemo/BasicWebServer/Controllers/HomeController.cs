@@ -31,7 +31,7 @@ Age: <input type='number' name='Age'/>
 
         public Response Redirect() => Redirect("https://softuni.org/");
 
-        public Response Html() => Html(HtmlForm);
+        public Response Html() => View();
 
         public Response HtmlFromPost()
         {
@@ -46,7 +46,7 @@ Age: <input type='number' name='Age'/>
             return Text(formData);
         }
 
-        public Response Content() => Html(DownloadForm);
+        public Response Content() => View();
 
         public Response DownloadContent()
         {
