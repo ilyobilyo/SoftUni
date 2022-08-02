@@ -1,4 +1,5 @@
-﻿using BasicWebServer.Server.HTTP;
+﻿using BasicWebServer.Models;
+using BasicWebServer.Server.HTTP;
 using BasicWebServer.Server.Responses;
 using System;
 using System.Collections.Generic;
@@ -26,15 +27,16 @@ namespace BasicWebServer.Server.Controllers
 
         public Response HtmlFromPost()
         {
-            string formData = "";
+            var name = this.Request.Form["Name"];
+            var age = this.Request.Form["Age"];
 
-            foreach (var (key, value) in this.Request.Form)
+            var model = new FormViewModel
             {
-                formData += $"{key} - {value}";
-                formData += Environment.NewLine;
-            }
+                Name = name,
+                Age = int.Parse(age)
+            };
 
-            return Text(formData);
+            return View(model);
         }
 
         public Response Content() => View();
@@ -94,6 +96,7 @@ namespace BasicWebServer.Server.Controllers
 
             return Text("Current date stored!");
         }
+
 
         private static async Task DownloadSitesAsTextFile(string fileName, string[] urls)
         {

@@ -37,3 +37,4 @@ D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer\obj\Debug\net6.0\ref\Bas
 D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer\obj\Debug\net6.0\BasicWebServer.pdb
 D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer\obj\Debug\net6.0\BasicWebServer.genruntimeconfig.cache
 D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer\bin\Debug\net6.0\Views\User\Login.cshtml
+D:\SoftUni\SoftUni\C# BasicWebServerDemo\BasicWebServer\bin\Debug\net6.0\Views\Home\HtmlFromPost.cshtml
