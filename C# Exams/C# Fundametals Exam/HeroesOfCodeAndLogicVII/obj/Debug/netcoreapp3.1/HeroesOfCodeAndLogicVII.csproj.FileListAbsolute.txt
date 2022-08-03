@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.exe
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.deps.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation\HeroesOfCodeAndLogicVII\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogicVII.genruntimeconfig.cache

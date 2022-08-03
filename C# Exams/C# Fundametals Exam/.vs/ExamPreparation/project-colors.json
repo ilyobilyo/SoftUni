@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bebf035e-b06f-42d2-a6d6-df9c1bb2f3d8": {
+      "ProjectGuid": "bebf035e-b06f-42d2-a6d6-df9c1bb2f3d8",
+      "DisplayName": "PasswordReset",
+      "ColorIndex": 0
+    },
+    "ad374a8b-02fa-475c-a135-9ec023abd0b6": {
+      "ProjectGuid": "ad374a8b-02fa-475c-a135-9ec023abd0b6",
+      "DisplayName": "FancyBarcodes",
+      "ColorIndex": 1
+    },
+    "cd6b22b1-1e30-46b6-9690-e6eb1c9558d1": {
+      "ProjectGuid": "cd6b22b1-1e30-46b6-9690-e6eb1c9558d1",
+      "DisplayName": "HeroesOfCodeAndLogicVII",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
