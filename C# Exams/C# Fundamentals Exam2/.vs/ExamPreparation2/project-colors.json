@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcbf7f92-aedd-41a6-90e8-e433347b1198": {
+      "ProjectGuid": "bcbf7f92-aedd-41a6-90e8-e433347b1198",
+      "DisplayName": "ExamPreparation2",
+      "ColorIndex": 0
+    },
+    "f2096a96-f211-429f-af31-4a835cd3a940": {
+      "ProjectGuid": "f2096a96-f211-429f-af31-4a835cd3a940",
+      "DisplayName": "EmojiDetector",
+      "ColorIndex": 1
+    },
+    "58216037-3e8d-479b-b487-89862cbf203e": {
+      "ProjectGuid": "58216037-3e8d-479b-b487-89862cbf203e",
+      "DisplayName": "Pirates",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

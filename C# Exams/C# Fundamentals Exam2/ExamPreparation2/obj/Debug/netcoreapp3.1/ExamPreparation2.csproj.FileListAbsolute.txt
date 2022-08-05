@@ -1,0 +1,14 @@
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.exe
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.deps.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\bin\Debug\netcoreapp3.1\ExamPreparation2.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.csproj.AssemblyReference.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\ExamPreparation2\ExamPreparation2\obj\Debug\netcoreapp3.1\ExamPreparation2.genruntimeconfig.cache
