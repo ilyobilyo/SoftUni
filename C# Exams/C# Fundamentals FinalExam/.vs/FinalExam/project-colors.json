@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4eb2ed98-540c-429e-af65-26abb6ebd649": {
+      "ProjectGuid": "4eb2ed98-540c-429e-af65-26abb6ebd649",
+      "DisplayName": "MessageTranslator",
+      "ColorIndex": 0
+    },
+    "2734a565-f6a6-4fa3-92f6-3fa5b925aaf7": {
+      "ProjectGuid": "2734a565-f6a6-4fa3-92f6-3fa5b925aaf7",
+      "DisplayName": "HeroRecruitment",
+      "ColorIndex": 1
+    },
+    "0769fbb2-14b3-47a1-ac8a-2f9cf011b829": {
+      "ProjectGuid": "0769fbb2-14b3-47a1-ac8a-2f9cf011b829",
+      "DisplayName": "Hogwarts",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,13 @@
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.exe
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.deps.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.runtimeconfig.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.runtimeconfig.dev.json
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\bin\Debug\netcoreapp3.1\Hogwarts.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.AssemblyInfoInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.AssemblyInfo.cs
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.dll
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.pdb
+C:\Users\iliyan\Desktop\Programing\Fundamentals\FinalExam\Hogwarts\obj\Debug\netcoreapp3.1\Hogwarts.genruntimeconfig.cache
