@@ -1,0 +1,15 @@
+﻿<section class="py-5">
+	<div class="container">
+		<h1>Something went wrong</h1>
+		<h3>Your errors are:</h3>
+		<ul>
+			{{foreach}}
+			{
+			<li>{{ErrorMessage}}</li>
+			}
+		</ul>
+		<div class="button-holder">
+			<a href="/" class="btn btn-info text-uppercase">Back to Homepage</a>
+		</div>
+	</div>
+</section>
