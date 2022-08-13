@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\SMS.csproj": {}
+    "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\SMS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+    "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "projectName": "BasicWebServer.Server",
-        "projectPath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
         "packagesPath": "C:\\Users\\iliyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\SMS.csproj": {
+    "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\SMS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\SMS.csproj",
+        "projectUniqueName": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\SMS.csproj",
         "projectName": "SMS",
-        "projectPath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\SMS.csproj",
+        "projectPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\SMS.csproj",
         "packagesPath": "C:\\Users\\iliyan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\obj\\",
+        "outputPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
-                "projectPath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
+              "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\BasicWebServer.Server.csproj": {
+                "projectPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\BasicWebServer.Server\\BasicWebServer.Server.csproj"
               }
             }
           }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nm7xm+EKJQFjke0RDlEq7FqoGZn3CoAZJTktf2Bk39bcOngeEjjh4+uwGr4vn4UdHrLFCHacGku6Zzf6Ip04bQ==",
+  "dgSpecHash": "xVUB/RLYZJpDJoqTJPRfs2zWB1rgBJOuOmn4OI0F6b50w5dZ83dMmNNzu4OcU2yeGh6RfJvkwOL2JLGxzd0clQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iliyan\\Desktop\\SMSSkeleton6.0\\SMS\\SMS.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 2\\SMS\\SMS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iliyan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iliyan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
