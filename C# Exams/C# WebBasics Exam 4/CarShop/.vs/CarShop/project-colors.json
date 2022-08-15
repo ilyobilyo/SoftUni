@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67912467-4fb9-4463-ba25-9158b67289c8": {
+      "ProjectGuid": "67912467-4fb9-4463-ba25-9158b67289c8",
+      "DisplayName": "CarShop",
+      "ColorIndex": 0
+    },
+    "3fe516aa-6a1a-4af7-bdf3-5c6154cac4cd": {
+      "ProjectGuid": "3fe516aa-6a1a-4af7-bdf3-5c6154cac4cd",
+      "DisplayName": "BasicWebServer.Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
