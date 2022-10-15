@@ -1,0 +1,14 @@
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.exe
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.deps.json
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.json
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.runtimeconfig.dev.json
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.dll
+D:\SoftUni\AdvancedExam3\01. Barista Contest\bin\Debug\netcoreapp3.1\01. Barista Contest.pdb
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.AssemblyReference.cache
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfoInputs.cache
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.AssemblyInfo.cs
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.csproj.CoreCompileInputs.cache
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.dll
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.pdb
+D:\SoftUni\AdvancedExam3\01. Barista Contest\obj\Debug\netcoreapp3.1\01. Barista Contest.genruntimeconfig.cache

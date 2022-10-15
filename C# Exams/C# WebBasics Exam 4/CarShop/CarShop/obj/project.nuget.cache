@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKkYDLF9XwxQnDiex49/eznfX1Jq67ioRoA/nEnBBp/kvE/Jv6y9SHN95uijg+mKdBtWMaEW3EXKEbL4kTJ1Rw==",
+  "dgSpecHash": "DtozXzry5Zo5ZIwu7JVmv4MiC2+/26karP8nQYjDu/Tmmte/tMk3b3lQP6Av8XgrXdxWcZmLk62oZbZ3aBX6pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\iliyan\\Desktop\\Problem Description_Skeleton - 6.0\\CarShop\\CarShop\\CarShop.csproj",
+  "projectFilePath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 4\\CarShop\\CarShop\\CarShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iliyan\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\iliyan\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\iliyan\\Desktop\\Problem Description_Skeleton - 6.0\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectUniqueName": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 4\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "projectName": "BasicWebServer.Server",
-      "projectPath": "C:\\Users\\iliyan\\Desktop\\Problem Description_Skeleton - 6.0\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
+      "projectPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 4\\CarShop\\BasicWebServer.Server\\BasicWebServer.Server.csproj",
       "packagesPath": "C:\\Users\\iliyan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\iliyan\\Desktop\\Problem Description_Skeleton - 6.0\\CarShop\\BasicWebServer.Server\\obj\\",
+      "outputPath": "D:\\SoftUni\\SoftUni\\C# Exams\\C# WebBasics Exam 4\\CarShop\\BasicWebServer.Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\iliyan\\AppData\\Roaming\\NuGet\\NuGet.Config",

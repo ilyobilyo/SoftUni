@@ -1,0 +1,14 @@
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.exe
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.deps.json
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.json
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.runtimeconfig.dev.json
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\bin\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.AssemblyReference.cache
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfoInputs.cache
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.AssemblyInfo.cs
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.csproj.CoreCompileInputs.cache
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.dll
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.pdb
+D:\SoftUni\AdvancedExam3\02. Help-A-Mole\obj\Debug\netcoreapp3.1\02. Help-A-Mole.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.MvcApplicationPartsAssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.RazorAssemblyInfo.cache
+D:\SoftUni\SoftUni\C# Exams\Watchlist_Skeleton_6.0\Watchlist\obj\Debug\net6.0\Watchlist.RazorAssemblyInfo.cs
