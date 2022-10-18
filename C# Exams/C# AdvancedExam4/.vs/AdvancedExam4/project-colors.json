@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "30f30055-9b13-45e4-ba98-e389e073cb53": {
+      "ProjectGuid": "30f30055-9b13-45e4-ba98-e389e073cb53",
+      "DisplayName": "01. Tiles Master",
+      "ColorIndex": 0
+    },
+    "8912e759-2419-44be-838c-c227c7df483b": {
+      "ProjectGuid": "8912e759-2419-44be-838c-c227c7df483b",
+      "DisplayName": "02. Wall Destroyer",
+      "ColorIndex": 1
+    },
+    "16f56f79-d412-460a-8569-c63035c3a9b3": {
+      "ProjectGuid": "16f56f79-d412-460a-8569-c63035c3a9b3",
+      "DisplayName": "03. Renovators",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
