@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e77e1f8c-7bc7-4bf0-9f41-79b8a4f9d007": {
+      "ProjectGuid": "e77e1f8c-7bc7-4bf0-9f41-79b8a4f9d007",
+      "DisplayName": "1. Recursive Array Sum",
+      "ColorIndex": 0
+    },
+    "baa82118-b299-47c5-b082-7dea6a33ae99": {
+      "ProjectGuid": "baa82118-b299-47c5-b082-7dea6a33ae99",
+      "DisplayName": "2. Recursive Drawing",
+      "ColorIndex": 1
+    },
+    "53d088a9-5dd9-41d5-8cae-580d90e6b1f5": {
+      "ProjectGuid": "53d088a9-5dd9-41d5-8cae-580d90e6b1f5",
+      "DisplayName": "3. Generating 01 Vectors",
+      "ColorIndex": 2
+    },
+    "1a6c707b-18b9-4c60-b71c-0dda9d7afdd9": {
+      "ProjectGuid": "1a6c707b-18b9-4c60-b71c-0dda9d7afdd9",
+      "DisplayName": "4. Recursive Factorial",
+      "ColorIndex": 3
+    },
+    "c0efb0df-5ef7-4cac-ae21-7af99f2b56f4": {
+      "ProjectGuid": "c0efb0df-5ef7-4cac-ae21-7af99f2b56f4",
+      "DisplayName": "5. Find All Paths in a Labyrinth",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

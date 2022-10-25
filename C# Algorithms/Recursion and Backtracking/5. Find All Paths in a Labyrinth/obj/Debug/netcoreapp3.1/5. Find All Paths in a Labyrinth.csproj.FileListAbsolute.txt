@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.exe
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.deps.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\bin\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.genruntimeconfig.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\5. Find All Paths in a Labyrinth\obj\Debug\netcoreapp3.1\5. Find All Paths in a Labyrinth.csproj.AssemblyReference.cache

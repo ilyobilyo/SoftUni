@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.exe
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.deps.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\bin\Debug\netcoreapp3.1\2. Recursive Drawing.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\2. Recursive Drawing\obj\Debug\netcoreapp3.1\2. Recursive Drawing.genruntimeconfig.cache

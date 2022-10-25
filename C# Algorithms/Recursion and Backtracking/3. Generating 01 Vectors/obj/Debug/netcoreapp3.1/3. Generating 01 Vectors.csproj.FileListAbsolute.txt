@@ -1,0 +1,13 @@
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.exe
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.deps.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\bin\Debug\netcoreapp3.1\3. Generating 01 Vectors.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\3. Generating 01 Vectors\obj\Debug\netcoreapp3.1\3. Generating 01 Vectors.genruntimeconfig.cache

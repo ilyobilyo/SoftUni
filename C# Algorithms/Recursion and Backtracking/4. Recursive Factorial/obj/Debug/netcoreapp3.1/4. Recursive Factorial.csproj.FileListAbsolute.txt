@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.exe
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.deps.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\bin\Debug\netcoreapp3.1\4. Recursive Factorial.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.dll
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.pdb
+D:\SoftUni\C# Algorithms\Recursion and Backtracking\4. Recursive Factorial\obj\Debug\netcoreapp3.1\4. Recursive Factorial.genruntimeconfig.cache
