@@ -1,0 +1,13 @@
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.exe
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.deps.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\bin\Debug\netcoreapp3.1\03. Bubble Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\03. Bubble Sort\obj\Debug\netcoreapp3.1\03. Bubble Sort.genruntimeconfig.cache

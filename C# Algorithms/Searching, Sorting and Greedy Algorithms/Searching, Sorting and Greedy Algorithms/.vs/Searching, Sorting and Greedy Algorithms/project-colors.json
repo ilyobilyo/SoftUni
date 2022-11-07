@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8dbb07ae-8817-49bf-accd-106205225970": {
+      "ProjectGuid": "8dbb07ae-8817-49bf-accd-106205225970",
+      "DisplayName": "01. Binary Search",
+      "ColorIndex": 0
+    },
+    "74926a1e-8d45-4023-a4e3-323618df7fe5": {
+      "ProjectGuid": "74926a1e-8d45-4023-a4e3-323618df7fe5",
+      "DisplayName": "02. Selection Sort",
+      "ColorIndex": 1
+    },
+    "865039eb-1b2c-4c70-a3d8-dd2b913c57ac": {
+      "ProjectGuid": "865039eb-1b2c-4c70-a3d8-dd2b913c57ac",
+      "DisplayName": "03. Bubble Sort",
+      "ColorIndex": 2
+    },
+    "153f01b8-7e77-4f45-bbf6-104c9fac7f9c": {
+      "ProjectGuid": "153f01b8-7e77-4f45-bbf6-104c9fac7f9c",
+      "DisplayName": "04. Insertion Sort",
+      "ColorIndex": 3
+    },
+    "7f147912-c122-485f-90e9-6b60a0a2b8a6": {
+      "ProjectGuid": "7f147912-c122-485f-90e9-6b60a0a2b8a6",
+      "DisplayName": "05. Quicksort",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

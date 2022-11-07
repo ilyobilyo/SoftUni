@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.exe
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.deps.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\bin\Debug\netcoreapp3.1\05. Quicksort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\05. Quicksort\obj\Debug\netcoreapp3.1\05. Quicksort.genruntimeconfig.cache

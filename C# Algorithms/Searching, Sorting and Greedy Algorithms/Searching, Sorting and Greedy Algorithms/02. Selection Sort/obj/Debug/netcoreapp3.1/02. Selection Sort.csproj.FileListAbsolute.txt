@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.exe
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.deps.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\bin\Debug\netcoreapp3.1\02. Selection Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\02. Selection Sort\obj\Debug\netcoreapp3.1\02. Selection Sort.genruntimeconfig.cache

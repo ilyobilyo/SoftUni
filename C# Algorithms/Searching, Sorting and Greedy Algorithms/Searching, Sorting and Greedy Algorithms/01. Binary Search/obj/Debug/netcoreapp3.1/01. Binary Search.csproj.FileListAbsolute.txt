@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.exe
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.deps.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\bin\Debug\netcoreapp3.1\01. Binary Search.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\01. Binary Search\obj\Debug\netcoreapp3.1\01. Binary Search.genruntimeconfig.cache

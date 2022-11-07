@@ -1,0 +1,14 @@
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.csproj.AssemblyReference.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.AssemblyInfo.cs
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.exe
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.deps.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.runtimeconfig.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.runtimeconfig.dev.json
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\bin\Debug\netcoreapp3.1\04. Insertion Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.dll
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.pdb
+D:\SoftUni\C# Algorithms\Searching, Sorting and Greedy Algorithms\Searching, Sorting and Greedy Algorithms\04. Insertion Sort\obj\Debug\netcoreapp3.1\04. Insertion Sort.genruntimeconfig.cache
