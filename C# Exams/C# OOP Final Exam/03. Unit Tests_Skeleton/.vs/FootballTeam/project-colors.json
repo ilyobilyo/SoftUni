@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e45474e4-cdb3-4ccd-a790-77bcb7c05205": {
+      "ProjectGuid": "e45474e4-cdb3-4ccd-a790-77bcb7c05205",
+      "DisplayName": "FootballTeam",
+      "ColorIndex": 0
+    },
+    "722abba9-a4ca-4452-b1b4-d0cf7f6e3751": {
+      "ProjectGuid": "722abba9-a4ca-4452-b1b4-d0cf7f6e3751",
+      "DisplayName": "FootballTeam.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

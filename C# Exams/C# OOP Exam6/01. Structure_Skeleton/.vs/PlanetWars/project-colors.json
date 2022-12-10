@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e4f842e-4341-4063-8421-ed6db241064d": {
+      "ProjectGuid": "0e4f842e-4341-4063-8421-ed6db241064d",
+      "DisplayName": "PlanetWars",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
