@@ -1,0 +1,14 @@
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+C:\WebProject\C# Advanced Final Exam\C# OOP ExamPrep2\01. Structure_Skeleton\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache
