@@ -2,11 +2,7 @@ function createSortedList(){
     let sortList = function(list){
         return list.sort((a,b) => a - b);
     }
-
-    // let getSize = function(list){
-    //     return list.length;
-    // }
-
+    
     let sortedList = {
         elemnts: [],
         size: 0,
