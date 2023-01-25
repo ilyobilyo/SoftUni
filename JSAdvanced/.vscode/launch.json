@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\DOM\\Format the Text\\solution.js"
+            "program": "${workspaceFolder}\\Advanced Functions\\Cars.js"
         }
     ]
 }
