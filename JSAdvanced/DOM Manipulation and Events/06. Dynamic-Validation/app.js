@@ -7,7 +7,6 @@ function validate() {
         const pattern = /^[a-z]*@[a-z]*.[a-z]*$/g;
         let match = pattern.exec(email);
 
-        console.log('kur');
         if(match){
             element.classList.remove('error');
         }else{
