@@ -1,0 +1,39 @@
+body {
+    box-sizing: border-box;
+    background-color: rgb(238, 238, 238) ;
+}
+
+.card {
+    width: 600px;
+    background-color: rgb(255, 255, 255) ;
+    position: relative;
+    display: inline-block;
+    top: 470px;
+    left: 550px;
+    padding: 30px 30px;
+}
+
+.card a {
+    background-color: rgb(0, 153, 0);
+    border-radius: 3px;
+    text-decoration: none;
+    padding: 5px 10px;
+    display: inline-block;
+    color: #fff;
+    position: absolute;
+    left: 550px;
+    bottom: 20px;
+}
+
+.card h3 {
+    font-family: Georgia, serif;
+    font-size: 1em;
+    padding-top: 15px;
+}
+
+.card img {
+    width: 660px;
+    position: absolute;
+    bottom: 140px;
+    left: 0px;
+}

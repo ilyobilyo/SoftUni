@@ -1,0 +1,29 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+ul {
+    display: inline-block;
+    list-style-type: none;
+}
+
+a{
+    border-radius: 50%;
+    color: black;
+    background-color: wheat;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.link:hover,
+.fb:hover {
+    color: blue;
+}
+
+.tw:hover, .inst:hover{
+    color: lightblue;
+}
+
+.go:hover {
+    color: red;
+}
