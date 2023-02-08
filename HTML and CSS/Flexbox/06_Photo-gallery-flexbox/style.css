@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+}
+
+body ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+}
+
+body ul li {
+    display: flex;
+    border: 5px solid black;
+    justify-content: stretch;
+    align-items: stretch;
+    padding: 10px;
+    flex: 1 2 auto;
+}

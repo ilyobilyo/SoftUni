@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+    font-size:  20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-width: 15vw;
+    height: 35rem;
+    gap: 6px;
+}
+
+span {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.eleven {
+    order: 1;
+}
+
+.two {
+    order: 2;
+}
+
+.twelve {
+    order: 3;
+}
+
+.four {
+    order: 4;
+}
+
+.eight{
+    order: 5;
+}
+
+.nine {
+    order: 6;
+}
+
+.six {
+    order: 7;
+}
+
+.five {
+    order: 8;
+}
+
+.one {
+    order: 9;
+}
+
+.three {
+    order: 10;
+}
+
+.seven {
+    order: 11;
+}
+
+.ten {
+    order: 12;
+}
