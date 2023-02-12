@@ -81,15 +81,6 @@ async function EditForm(e){
 
     const formBtn = form.querySelector('button');
     formBtn.textContent = 'Save';
-    formBtn.dataset.id = e.target.dataset.id;
-
-    const titleInput = form.querySelector('input[name="title"]');
-    const authorInput = form.querySelector('input[name="author"]');
-
-    const currentBookData = await GetBook(e.target.dataset.id);
-
-    titleInput.value = currentBookData.title;
-    authorInput.value = currentBookData.author;
 }
 
 function DeleteBook(e){
@@ -149,5 +140,5 @@ async function Delete(id){
         headers: {'Content-Type': 'application/json' },
     })
     const data = await response.json();
-
+    GetAllBooks()
 }
