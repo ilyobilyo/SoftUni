@@ -1,0 +1,80 @@
+/* #f6f8f9 - bg*/
+/* #786eff - btn*/
+
+*{
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 14px;
+    background-color: #f6f8f9;
+    padding: 32px 64px 0px 64px;
+    border-radius: 4px;
+    max-width: 55%;
+    max-height: 100%;
+}
+
+.container .sub-heading{
+    font-size: 0.7rem;
+    font-weight: 500;
+    margin-bottom: 12px;
+}
+
+.container .title{
+    font-size: 2rem;
+    font-weight: 100;
+    margin-top: 0;
+}
+
+.text{
+    color: #65707a;
+    margin-bottom: 22px;
+    line-height: 1.6;
+}
+
+.container .content{
+    max-width: 40%;
+    margin-right: auto;
+}
+
+.image{
+    width:60%;
+    margin-left: auto;
+}
+
+.btn{
+    background-color: #f6f8f9;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-right: 2px;
+    font-weight: 600;
+}
+
+.active{
+    background-color: #786eff;
+    border:  1px solid #786eff;
+    color: #fff;
+}
+
+.r{
+    display: flex;
+    margin-top: auto;
+}
+
+.btn-container{
+    display: flex;
+    margin-bottom: 10px;
+    gap: 12px;
+}

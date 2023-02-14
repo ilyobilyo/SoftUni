@@ -1,0 +1,365 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+@font-face {
+    font-family: Raleway;
+    src: url(https://fonts.google.com/specimen/Raleway);
+}
+
+
+*{
+    box-sizing: border-box;
+    font-family: Raleway, sans-serif;
+}
+
+body {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    margin: 40px;
+}
+
+.first {
+    background-color: #efefef;
+    padding: 26px 28px 0px 28px;
+}
+
+.content-first{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-left: 32px;
+    padding: 10px 84px 0px 84px;
+}
+
+.first-text {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 40%;
+}
+
+.menu {
+    margin-right: 5px;
+}
+
+.menu-nav{
+    text-align: end;
+}
+
+.first-title{
+    display: inline-block;
+    margin-right: 10px;
+    text-align: start;
+    font-size: 3.4rem;
+    margin-bottom: 28px;
+    font-family: Raleway, sans-serif;
+
+}
+
+.first-p{
+    text-align: start;
+    font-style: italic;
+    font-size: 1.5rem;
+    font-family: Raleway, serif;
+}
+
+.line{
+    border-left: 1px solid black;
+    height: 100px;
+    margin-top: 36px;
+}
+
+.gray {
+    color: #757575;
+    font-size: 3.4rem;
+    font-family: Raleway,serif;
+}
+
+.second {
+    background-color: #efefef;
+    padding: 26px 28px 0px 28px;
+    height: 74vh;
+}
+
+.content-second {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin-right: 5%;
+    padding: 10px 84px 0px 84px;
+}
+
+.second-text{
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    max-width: 50%;
+}
+
+.second-title{
+    display: inline-block;
+    text-align: center;
+    font-size: 3.4rem;
+    margin-bottom: 28px;
+    font-family: Raleway,sans-serif;
+
+}
+
+.secon-line{
+    position: relative;
+    border-bottom: 1px solid black;
+    width: 100px;
+    bottom: -2.6rem;
+}
+
+.second-p-one{
+    text-align: start;
+    font-style: italic;
+    margin-bottom: 20px;
+    font-family: Raleway, serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+}
+
+.second-p{
+    text-align: start;
+    font-style: italic;
+    font-family: Raleway, serif;
+    font-size: 1.4rem;
+    line-height: 1.6;
+}
+
+.img-second{
+    padding: 40px 0px 40px 40px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-width: 40%;
+    align-items: flex-start;
+    padding: 0;
+}
+
+.icons a{
+    color: #909090;
+    font-size: 2rem;
+}
+
+.third{
+    display: flex;
+    height: 74vh;
+    justify-content: center;
+}
+
+.third img {
+    width: 100%;
+}
+
+.fourth {
+    background-color: #efefef;
+    padding: 26px 28px 0px 28px;
+    height: 74vh;
+}
+
+.content-fourth{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    height: 100%;
+    margin-left: 32px;
+    padding: 10px 84px 0px 84px;
+}
+
+.fourth-text {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 30%;
+}
+
+.fourth-title{
+    display: inline-block;
+    margin-right: 10px;
+    text-align: start;
+    font-size: 3.4rem;
+    margin-bottom: 28px;
+    font-family: Raleway, sans-serif;
+}
+
+.fourth-text span{
+    font-size: 3.4rem;
+    font-family: Raleway;
+}
+
+.fourth-p{
+    font-size: 1.3rem;
+    text-align: start;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.6;
+    font-family: Raleway,serif;
+}
+
+.img-fourth{
+    width: 55%;
+    padding-right: 12px;
+}
+
+.fifth {
+    position: relative;
+    background-color: #efefef;
+    padding: 26px 28px 0px 28px;
+    height: 74vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tub1{
+    width: 30%;
+    height: 55%;
+    margin-left: 11%;
+    margin-bottom: 2%;
+}
+
+.tub2{
+    position: absolute;
+    width: 40%;
+    height: 65%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.tub3{
+    width: 30%;
+    height: 55%;
+    margin-right: 11%;
+    margin-bottom: 2%;
+}
+
+.sixth {
+    background-color: #efefef;
+    padding: 26px 28px 0px 28px;
+    height: 74vh;
+}
+
+.content-sixth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 80%;
+    margin-left: 32px;
+    padding: 10px 50px 0px 50px;
+    margin-bottom: 6%;
+}
+
+.sixth-text {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    max-width: 80%;
+    margin-bottom: 3%;
+}
+
+.sixth-title{
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 3.4rem;
+    margin-bottom: 28px;
+    font-family: Raleway, sans-serif;
+}
+
+.sixth-text span{
+    font-size: 3.4rem;
+    font-family: Raleway;
+}
+
+.sixth-p{
+    font-size: 1.3rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 1.6;
+    font-family: Raleway,serif;
+}
+
+.form-container{
+    width: 50%;
+}
+
+.form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
+
+.email {
+    display: inline-block;
+    width: 47%;
+    height: 3.4rem;
+    border: 1px solid black;
+    background-color: #efefef;
+
+}
+
+.email::placeholder{
+    color: black;
+    padding-left: 15px;
+    font-family: Raleway, sans-serif;
+    font-size: 1.2rem;
+}
+
+.subject {
+    display: inline-block;
+    width: 47%;
+    height: 3.4rem;
+    border: 1px solid black;
+    background-color: #efefef;
+}
+
+.subject::placeholder{
+    color: black;
+    padding-left: 15px;
+    font-family: Raleway, sans-serif;
+    font-size: 1.2rem;
+}
+
+#textArea{
+    width: 100%;
+    background-color: #efefef;
+    border: 1px solid black;
+}
+
+#textArea::placeholder{
+    color: black;
+    padding: 10px 15px;
+    font-family: Raleway, sans-serif;
+    font-size: 1.2rem;
+}
+
+.btn {
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    height: 3.2rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+}
