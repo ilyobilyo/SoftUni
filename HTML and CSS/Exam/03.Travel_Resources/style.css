@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* 
+    color btn - #370511
+    color text - #969395
+*/
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+    display: flex;
+    margin-right: auto;
+    flex-wrap: wrap;
+    background-image: url('./images/landing-photo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 800px;
+}
+
+header {
+    width: 100%;
+}
+
+.nav{
+    display: flex;
+    margin-right: auto;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+}
+
+.nav .nav-title{
+   font-size: 24px;
+}
+
+.nav-list {
+    display: flex;
+    gap: 24px;
+}
+
+.nav-list a{
+    text-decoration: none;
+    color: #252E33;
+    font-weight: 500;
+}
+
+.nav-list li:nth-child(5) a{
+    background-color: #370511;
+    color: #fff;
+    border-radius: 20px;
+    padding: 6px 26px;
+}
+
+.hero-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 30%;
+    margin-left: 22%;
+    margin-bottom: 5%;
+}
+
+.hero-container .hero-title{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.hero-container .hero-sub-title{
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 5%;
+}
+
+.hero-container .hero-text{
+    font-size: 16px;
+    margin-bottom: 6%;
+}
+
+.hero-container .hero-btn{
+    width: 30%;
+    border-radius: 20px;
+    background-color: #370511;
+    border: 1px solid #370511;
+    color: white;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 6px 26px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+
+.titles {
+    margin-top: 3%;
+    margin-bottom: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+}
+
+.card {
+    width: calc(33.33% - 20px);
+    margin: 10px;
+    text-align: center;
+    border-radius: 6px;
+    overflow: hidden;
+    height: 55vh;
+    position: relative;
+}
+
+img{
+    width: 100%;
+    height: 55%;
+    object-fit:cover;
+    margin-bottom: 3%;
+}
+
+.card-info {
+    text-align: left;
+    padding: 3% 4%;
+}
+
+.card-btn{
+    all:unset;
+    border: 1px solid black;
+    border-radius: 26px;
+    padding: 12px 36px;
+    font-weight: 500;
+    margin-top: 5%;
+}
+
+.footer {
+    background-color:black;
+    color: #fff;
+}
+
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5%;
+}
+
+.info-1 li{
+    margin-bottom: 4%;
+}
+
+.follow i{
+    margin-right: 12%;
+}
+
+.follow{
+    width: 10%;
+}
+
+.fot-travel{
+    margin-left: 5%;
+}

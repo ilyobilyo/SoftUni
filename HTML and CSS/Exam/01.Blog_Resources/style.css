@@ -1,0 +1,77 @@
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/*
+    bg - #f6e0b5
+    bg-title - #66545e
+    text - #64515b
+*/
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f6e0b5;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: medium;
+    margin: 30px;
+    gap: 20px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(2 1fr);
+    grid-template-areas: 
+        "img img"
+        "img img";
+    width: 1000px;
+    height: 65vh;
+    gap: 15px;
+}
+
+#img {
+    grid-area: img;
+    width: 100%;
+    height: 85%;
+}
+
+.card {
+    margin-right: 3%;
+    border: 1px solid black;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 5px 12px 33px -6px rgba(0,0,0,0.72);
+-webkit-box-shadow: 5px 12px 33px -6px rgba(0,0,0,0.72);
+-moz-box-shadow: 5px 12px 33px -6px rgba(0,0,0,0.72);
+}
+
+.title {
+    background-color: #66545e;
+    color: white;
+    padding-left: 15px;
+    padding-top: 8px;
+    width: 100%;
+    height: 15%;
+}
+
+.cards .card .img:nth-child(1){
+    height: 91%;
+}
+
+.category {
+    color: #64515b;
+    font-size: 24px;
+    font-weight: 500;
+    padding-right: 65%;
+}
+
+.category .list{
+    padding: 0;
+}
+
+.category .list a{
+    text-decoration: none;
+    color: #64515b;
+}
+
+.category .list .cat-name{
+    margin-bottom: 4%;
+}
