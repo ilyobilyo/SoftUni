@@ -3,6 +3,7 @@ import { Link, useNavigate } from "react-router-dom"
 import { AuthContext } from "../../contexts/AuthContext"
 
 import * as authService from '../../services/authService'
+import { validateConfirmPssword, validateEmail, validatePssword } from "../../utils/validator"
 
 export const Register = () => {
     const navigate = useNavigate();
@@ -37,44 +38,25 @@ export const Register = () => {
         }))
     }
 
-    const validatePassword = () => {
-        if (formData.password !== formData.confirmPassword) {
-            setError(state => ({
-                ...state,
-                confirmPass: 'Password and confirm password dont match'
-            }))
-        } else {
-            setError(state => ({
-                ...state,
-                confirmPass: ''
-            }))
-        }
-
-        if (formData.password.length < 4) {
-            setError(state => ({
-                ...state,
-                password: 'Password must be at least 4 characters long'
-            }))
-        } else {
-            setError(state => ({
-                ...state,
-                password: ''
-            }))
-        }
+    const validateConfirmPasswordHandler = () => {
+        setError(state => ({
+            ...state,
+            confirmPass: validateConfirmPssword(formData.password, formData.confirmPassword)
+        }))
     }
 
-    const validateEmail = () => {
-        if (formData.email.length === 0) {
-            setError(state => ({
-                ...state,
-                email: 'Email is required'
-            }))
-        } else {
-            setError(state => ({
-                ...state,
-                email: ''
-            }))
-        }
+    const validatePasswordHandler = () => {
+        setError(state => ({
+            ...state,
+            password: validatePssword(formData.password)
+        }))
+    }
+
+    const validateEmailHandler = () => {
+        setError(state => ({
+            ...state,
+            email: validateEmail(formData.email)
+        }))
     }
 
     return (
@@ -90,20 +72,20 @@ export const Register = () => {
                         name="email"
                         placeholder="maria@email.com"
                         onChange={onChange}
-                        onBlur={validateEmail}
+                        onBlur={validateEmailHandler}
                     />
 
-                    {error.email && <p style={{color: 'red'}}>{error.email}</p>}
+                    {error.email && <p style={{ color: 'red' }}>{error.email}</p>}
 
                     <label htmlFor="pass">Password:</label>
-                    <input type="password" name="password" id="register-password" onChange={onChange} onBlur={validatePassword} />
+                    <input type="password" name="password" id="register-password" onChange={onChange} onBlur={validatePasswordHandler} />
 
-                    {error.password && <p style={{color: 'red'}}>{error.password}</p>}
+                    {error.password && <p style={{ color: 'red' }}>{error.password}</p>}
 
                     <label htmlFor="con-pass">Confirm Password:</label>
-                    <input type="password" name="confirmPassword" id="confirm-password" onChange={onChange} onBlur={validatePassword} />
+                    <input type="password" name="confirmPassword" id="confirm-password" onChange={onChange} onBlur={validateConfirmPasswordHandler} />
 
-                    {error.confirmPass && <p style={{color: 'red'}}>{error.confirmPass}</p>}
+                    {error.confirmPass && <p style={{ color: 'red' }}>{error.confirmPass}</p>}
 
                     <input className="btn submit" type="submit" defaultValue="Register" disabled={error.confirmPass || error.email || error.password} />
                     <p className="field">

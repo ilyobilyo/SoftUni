@@ -1,7 +1,10 @@
+import { useContext } from "react"
+import { GameContext } from "../../contexts/GameContext"
 import { HomeGameItem } from "./home-game-item/HomeGameItem"
 
+export const Home = () => {
+    const { lastThreeGames } = useContext(GameContext)
 
-export const Home = ({games}) => {
     return (
         <section id="welcome-world">
             <div className="welcome-message">
@@ -12,8 +15,8 @@ export const Home = ({games}) => {
             <div id="home-page">
                 <h1>Latest Games</h1>
 
-                {games.length > 0
-                ? games.map(x => <HomeGameItem key={x._id} game={x}/>)
+                {lastThreeGames.length > 0
+                ? lastThreeGames.map(x => <HomeGameItem key={x._id} game={x}/>)
                 : <p className="no-articles">No games yet</p>
                 }
 

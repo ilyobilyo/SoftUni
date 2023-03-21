@@ -17,7 +17,7 @@ export const Header = () => {
                 {user.accessToken
                     ? <div id="user">
                         <Link to="/create">Create Game</Link>
-                        <Link to="/">Logout</Link>
+                        <Link to="/logout">Logout</Link>
                     </div>
                     : <div id="guest">
                         <Link to="/login">Login</Link>

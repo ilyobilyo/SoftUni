@@ -5,14 +5,14 @@ async function request(method, url, body) {
         method,
         headers: {}
     }
-
+debugger
     if (body !== undefined) {
         options.headers['Content-Type'] = 'application/json';
         options.body = JSON.stringify(body);
     }
 
     const user = JSON.parse(localStorage.getItem('auth'));
-    debugger
+    
     if (user) {
         const token = user.accessToken;
 

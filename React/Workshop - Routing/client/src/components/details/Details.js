@@ -1,20 +1,39 @@
-import { useState } from "react";
-import { useParams } from "react-router-dom"
+import { useContext, useEffect, useState } from "react";
+import { Link, useNavigate, useParams } from "react-router-dom"
 import { GameComment } from "./game-comment/GameComment";
 
+import * as gameService from '../../services/gameService'
+import { AuthContext } from "../../contexts/AuthContext";
+import { GameContext } from "../../contexts/GameContext";
 
-export const Details = ({ games, addComment }) => {
+export const Details = () => {
+    const navigate = useNavigate();
+    const { user } = useContext(AuthContext);
+    const { onDeleteGame } = useContext(GameContext);
+
     const { gameId } = useParams();
+
+    const [game, setGame] = useState({});
+    const [gameComments, setGameComments] = useState([]);
+
     const [comment, setComment] = useState({
-        username: '',
         comment: ''
     });
     const [error, setError] = useState({
-        username: '',
         comment: ''
     });
 
-    const game = games.find(x => x._id == gameId);
+    useEffect(() => {
+        gameService.GetById(gameId)
+            .then(game => setGame(game))
+            .catch(() => {
+                navigate('/');
+            })
+
+        gameService.GetGameComments(gameId)
+            .then(com => setGameComments(com))
+            .catch(() => { navigate('/') })
+    }, [])
 
     const onChange = (e) => {
         setComment(state => ({
@@ -42,9 +61,28 @@ export const Details = ({ games, addComment }) => {
     const createCommentHandler = (e) => {
         e.preventDefault();
 
-        const result = `${comment.username}: ${comment.comment}`;
-        
-        addComment(gameId, result);
+        gameService.CreateComment({ gameId: game._id, comment: comment.comment })
+            .then(com => setGameComments(state => [...state, com]))
+            .catch(() => {
+                navigate('/');
+            })
+
+        setComment({ comment: '' })
+    }
+
+    const deleteGameHandler = (e) => {
+        const confirm = window.confirm('Are you sure you want to delete thi game man !')
+
+        if (confirm) {
+            gameService.removeGame(gameId)
+                .then(() => {
+                    onDeleteGame(gameId);
+                    navigate('/catalog');
+                })
+                .catch(() => {
+                    navigate('/');
+                })
+        }
     }
 
     return (
@@ -62,39 +100,32 @@ export const Details = ({ games, addComment }) => {
                 <div className="details-comments">
                     <h2>Comments:</h2>
 
-                    {game.comments?.length > 0
+                    {gameComments.length > 0
                         ? <ul>
-                            {game.comments.map(x => <GameComment key={game + 's' + x} comment={x} />)}
+                            {gameComments.map(x => <GameComment key={x._id} comment={x} />)}
                         </ul>
                         : <p className="no-comment">No comments.</p>
                     }
 
                 </div>
 
-                <div className="buttons">
-                    <a href="#" className="button">
-                        Edit
-                    </a>
-                    <a href="#" className="button">
-                        Delete
-                    </a>
-                </div>
+                {user._id == game._ownerId &&
+                    <div className="buttons">
+                        <Link to={`/edit/${gameId}`} className="button">
+                            Edit
+                        </Link>
+                        <button onClick={deleteGameHandler} className="button">
+                            Delete
+                        </button>
+                    </div>
+                }
+
             </div>
             {/* Bonus */}
             {/* Add Comment ( Only for logged-in users, which is not creators of the current game ) */}
             <article className="create-comment">
                 <label>Add new comment:</label>
                 <form className="form" onSubmit={createCommentHandler}>
-                    <input
-                        name="username"
-                        type="text"
-                        value={comment.username}
-                        onBlur={validate}
-                        onChange={onChange}
-                    />
-
-                    {error.username && <div style={{ color: 'orange' }}>{error.username}</div>}
-
                     <textarea
                         name="comment"
                         placeholder="Comment......"
@@ -109,7 +140,7 @@ export const Details = ({ games, addComment }) => {
                         className="btn submit"
                         type="submit"
                         value="Add Comment"
-                        disabled={error.comment || error.username}
+                        disabled={error.comment}
                     />
                 </form>
             </article>
